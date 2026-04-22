@@ -11,7 +11,7 @@ A conditional remote code execution vulnerability in LimeSurvey allows authentic
 ## Vulnerability Type
 - Remote Code Execution
 
-##Fixed Version
+## Fixed Version
 Limesurvey 6.17.0 (build 260421) April 21, 2026
 
 ## Affected Components
