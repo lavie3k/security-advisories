@@ -11,7 +11,7 @@ A conditional remote code execution vulnerability in LimeSurvey allows authentic
 - Remote Code Execution
 
 ## Fixed Version
-Limesurvey 6.17.0 (build 260421) April 21, 2026
+Limesurvey 6.17.1+260427
 
 ## Affected Components
 - Plugin / Question Theme upload & install
@@ -30,7 +30,7 @@ Limesurvey 6.17.0 (build 260421) April 21, 2026
 - Persistent backdoor via plugin/theme  
 
 ## Fix
-Upgrade LimeSurvey to version 6.17.0 or later.
+Upgrade LimeSurvey to version 6.17.1+260427 or later.
 
 ## Reference
 - [https://github.com/LimeSurvey/LimeSurvey/pull/4900](https://github.com/LimeSurvey/LimeSurvey/pull/4900)
