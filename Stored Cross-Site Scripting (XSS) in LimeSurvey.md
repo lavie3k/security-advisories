@@ -32,3 +32,4 @@ Upgrade LimeSurvey to version 6.17.0 or later.
 
 ## Reference
 - [https://github.com/LimeSurvey/LimeSurvey/pull/4888](https://github.com/LimeSurvey/LimeSurvey/pull/4888)
+- [https://github.com/LimeSurvey/LimeSurvey/blob/master/docs/release_notes.txt](https://github.com/LimeSurvey/LimeSurvey/blob/master/docs/release_notes.txt)
